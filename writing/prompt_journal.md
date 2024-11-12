@@ -1,6 +1,9 @@
 ## 1. Prompts Used
 
 TODO: try at least three variations and use the same final prompts for both Copilot and another LLM
+- Generate code that has a theme of collaboration, which reflects teamwork and collaboration, perhaps through functions that interact or share data.
+- Using this code, add in an option for user input so that the user can be a part of the collaboration
+- Instead of the data being numbers, lets change it to personal information such as name, age, and college major/minor
 
 ## 2. Prompting Strategy
 
@@ -17,9 +20,6 @@ For each generated code output, consider:
 ### Copilot
 
 TODO: evaluation
-Generate code that has a theme of collaboration, which reflects teamwork and collaboration, perhaps through functions that interact or share data.
-Using this code, add in an option for user input so that the user can be a part of the collaboration
-Instead of the data being numbers, lets change it to personal information such as name, age, and college major/minor
 
 ### Other Single LLM
 
